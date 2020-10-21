@@ -1,4 +1,5 @@
 # Veiled Toxicity Detection
+This repo contains code for our paper Fortifying Toxic Speech Detectors Against Veiled Toxicity (https://arxiv.org/abs/2010.03154).
 
 ### Setup
 The main environment requirements for this project are `python 3.6`, `pytorch 1.3.1`, and `pytorch-pretrained-bert 0.6.1`.
