@@ -9,7 +9,7 @@ We mainly use three sources of data (as describe in our paper): the Social Bias 
 
 - `resources/process_SBF.ipynb`: filters the SBIC dataset by their offensiveness and Perspective API toxicity scores (described in the paper).
 
-- `resources/processed_dataset/*.pkl`: pickle files containing the processed datasets (format: `List` of `(original_text, (target group annotations))`)
+- `resources/processed_dataset/*.pkl`: pickle files containing the processed datasets (format: `List` of `(original_text, (target_group_annotations))`)
 
 ### Training the initial student model
 
